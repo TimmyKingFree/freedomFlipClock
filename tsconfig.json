@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "declaration": true, // 为子项目生成.d.ts声明文件
+        "jsx": "react",
+        "outDir": "./dist"
+    }
+}
